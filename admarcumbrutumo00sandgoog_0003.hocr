@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "admarcumbrutumo00sandgoog_0003.png"; bbox 0 0 715 1248; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 241 40 666 143">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 241 40 666 143">
+     <span class='ocr_line' id='line_1_1' title="bbox 241 40 666 143; baseline 0 1105"><span class='ocrx_word' id='word_1_1' title='bbox 241 40 666 143; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 71 159 331 192">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 71 159 331 192">
+     <span class='ocr_line' id='line_1_2' title="bbox 71 159 331 192; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 71 174 112 192; x_wconf 48' lang='grc' dir='ltr'>κ’</span> <span class='ocrx_word' id='word_1_3' title='bbox 150 161 218 192; x_wconf 70' lang='grc'>39-</span> <span class='ocrx_word' id='word_1_4' title='bbox 241 159 331 192; x_wconf 62' lang='lat'>952?</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 327 633 432 676">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 327 633 432 676">
+     <span class='ocr_line' id='line_1_3' title="bbox 327 633 432 676; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 327 633 432 676; x_wconf 47' lang='grc' dir='ltr'>ΗΜ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 472 604 672 1006">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 472 604 672 1006">
+     <span class='ocr_line' id='line_1_4' title="bbox 477 604 672 922; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 477 604 672 922; x_wconf 95' lang='lat' dir='ltr'>    </span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 472 922 672 1006; baseline 0 242"><span class='ocrx_word' id='word_1_7' title='bbox 472 922 672 1006; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 279 803 540 910">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 279 803 540 910">
+     <span class='ocr_line' id='line_1_6' title="bbox 280 803 540 837; baseline 0.008 -12"><span class='ocrx_word' id='word_1_8' title='bbox 280 803 477 826; x_wconf 81' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_9' title='bbox 523 809 540 837; x_wconf 53' lang='lat' dir='ltr'><em>g</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 279 844 477 869; baseline 0 -1"><span class='ocrx_word' id='word_1_10' title='bbox 279 844 477 869; x_wconf 73' lang='lat' dir='ltr'>COLLEGE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 280 886 477 910; baseline 0.01 -2"><span class='ocrx_word' id='word_1_11' title='bbox 280 886 477 910; x_wconf 77' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
